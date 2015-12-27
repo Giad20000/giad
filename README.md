@@ -1,0 +1,2 @@
+# giad
+emulatore nds
